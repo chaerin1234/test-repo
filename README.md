@@ -1,6 +1,7 @@
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=Cylinder &text=hello github!)
 
-<div align="center">
   🔎 연구의 필요성
 AGORA 프로젝트는 서로 다른 수치적 구현 방식(Gizmo vs. Enzo)이 동일한 물리적 모델을 적용할 때 수렴(convergence)할 수 있는지를 검증하는 것이 목표였다. 그러나, 기존 연구에서는 수렴을 **"캘리브레이션을 통한 조정"**으로 접근했을 뿐, 이 수렴이 **"물리적으로 의미 있는가?"**에 대한 검증은 부족하다.
 
