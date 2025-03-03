@@ -2,7 +2,7 @@
 
 # 🚀 Welcome to My GitHub! 🌌
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello,%20I'm%20ChaeRin%20Jung!&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello,%20I'm%20ChaeRin%20Jeong!&fontSize=40)
 
 ### 🌠 **Astrophysics | Numerical Simulations | Computational Science**
 🔭 Passionate about **Astronomy & Computational Simulations**  
